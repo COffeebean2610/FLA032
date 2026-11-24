@@ -1,0 +1,24 @@
+# Core Deep Learning Framework
+tensorflow>=2.15.0
+keras>=3.0.0
+
+# Scientific Computing & Data Processing
+numpy>=1.26.0
+pandas>=2.2.0
+scipy>=1.13.0
+scikit-learn>=1.4.0
+
+# Computer Vision & Image Processing
+opencv-python>=4.9.0
+pillow>=10.2.0
+
+# Data Visualization & Plotting
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# Web Application & Deployment
+streamlit>=1.32.0
+
+# Academic Report & Document Generation
+python-docx>=1.1.0
+reportlab>=4.1.0

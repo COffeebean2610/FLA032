@@ -1,0 +1,310 @@
+{
+  "Cassava___Bacterial Blight (CBB)": {
+    "crop": "Cassava",
+    "condition": "Bacterial Blight (CBB)",
+    "status": "Diseased",
+    "symptoms": "Angular water-soaked leaf spots, wilting of young shoots, gum exudation on stems, and premature leaf drop.",
+    "prevention": "Use certified disease-free stem cuttings, plant resistant cassava varieties, implement crop rotation, and avoid overhead irrigation."
+  },
+  "Cassava___Brown Streak Disease (CBSD)": {
+    "crop": "Cassava",
+    "condition": "Brown Streak Disease (CBSD)",
+    "status": "Diseased",
+    "symptoms": "Yellowing or chlorosis along secondary leaf veins, dark brown necrotic streaks on green stems, and dry corky necrosis within storage roots.",
+    "prevention": "Plant virus-tested clean planting material, manage whitefly vector populations using integrated pest management, and rogue infected plants promptly."
+  },
+  "Cassava___Green Mottle (CGM)": {
+    "crop": "Cassava",
+    "condition": "Green Mottle (CGM)",
+    "status": "Diseased",
+    "symptoms": "Irregular green mosaic patterns, mottling, puckering, and mild stunting on young emerging leaves.",
+    "prevention": "Select healthy vegetative propagules, monitor vector activity, and maintain field sanitation."
+  },
+  "Cassava___Healthy": {
+    "crop": "Cassava",
+    "condition": "Healthy Foliage",
+    "status": "Healthy",
+    "symptoms": "Foliage exhibits uniform deep green color with vigorous expansion, well-formed leaf lobes, and no visible lesions.",
+    "prevention": "Maintain balanced soil fertility, optimal moisture management, and routine field scouting."
+  },
+  "Cassava___Mosaic Disease (CMD)": {
+    "crop": "Cassava",
+    "condition": "Mosaic Disease (CMD)",
+    "status": "Diseased",
+    "symptoms": "Severe mosaic mottling, distorted, curled, and stunted leaf blades, and reduced root tuber yield.",
+    "prevention": "Deploy resistant cultivars, eliminate whitefly breeding habitats, and eradicate infected plant debris."
+  },
+  "Rice___BrownSpot": {
+    "crop": "Rice",
+    "condition": "Brown Spot (Bipolaris oryzae)",
+    "status": "Diseased",
+    "symptoms": "Small, oval or circular dark brown spots on leaves with gray or whitish centers and a yellow halo.",
+    "prevention": "Ensure balanced soil nutrition (adequate potassium and silicon), avoid severe drought stress, and practice seed treatment."
+  },
+  "Rice___Healthy": {
+    "crop": "Rice",
+    "condition": "Healthy Canopy",
+    "status": "Healthy",
+    "symptoms": "Vibrant emerald green leaf blades without necrotic spotting, lesions, or insect tunneling.",
+    "prevention": "Follow recommended nitrogen schedules, maintain appropriate water depth, and monitor weed growth."
+  },
+  "Rice___Hispa": {
+    "crop": "Rice",
+    "condition": "Rice Hispa (Dicladispa armigera)",
+    "status": "Diseased",
+    "symptoms": "White parallel streaks on leaves caused by larval leaf tunneling, giving leaves a bleached appearance.",
+    "prevention": "Encourage natural predator populations, avoid excessive nitrogen fertilization, and practice sweep netting in early growth stages."
+  },
+  "Rice___LeafBlast": {
+    "crop": "Rice",
+    "condition": "Leaf Blast (Magnaporthe oryzae)",
+    "status": "Diseased",
+    "symptoms": "Spindle-shaped or elliptical lesions with grayish-white centers and brownish-red borders on leaf blades.",
+    "prevention": "Plant blast-tolerant rice varieties, avoid excessive nitrogen application, maintain proper field drainage, and space plants properly."
+  },
+  "apple___apple scab": {
+    "crop": "Apple",
+    "condition": "Apple Scab (Venturia inaequalis)",
+    "status": "Diseased",
+    "symptoms": "Olive-green to velvety brown or black circular spots on leaves, becoming scabby and causing leaf puckering.",
+    "prevention": "Prune tree canopies to improve airflow, rake and shred fallen leaves in autumn, and apply preventive organic fungicides during wet spring weather."
+  },
+  "apple___black rot": {
+    "crop": "Apple",
+    "condition": "Black Rot (Botryosphaeria obtusa)",
+    "status": "Diseased",
+    "symptoms": "Small purple flecks enlarging into 'frog-eye' leaf spots with light brown centers and purple margins.",
+    "prevention": "Prune out dead wood, mummified fruits, and cankers during winter dormancy, and sterilize pruning tools between cuts."
+  },
+  "apple___cedar apple rust": {
+    "crop": "Apple",
+    "condition": "Cedar Apple Rust (Gymnosporangium juniperi-virginianae)",
+    "status": "Diseased",
+    "symptoms": "Bright yellow-orange or reddish-orange spots on the upper leaf surface with tiny fungal tube projections underneath.",
+    "prevention": "Remove nearby eastern red cedar trees if practical, plant rust-resistant apple cultivars, and maintain orchard sanitation."
+  },
+  "apple___healthy": {
+    "crop": "Apple",
+    "condition": "Healthy Foliage",
+    "status": "Healthy",
+    "symptoms": "Intact, deep green leaves with crisp margins and absence of discoloration, fungal mycelium, or insect damage.",
+    "prevention": "Maintain proper tree nutrition, regular pruning for sun penetration, and periodic orchard monitoring."
+  },
+  "cherry (including sour)___healthy": {
+    "crop": "Cherry",
+    "condition": "Healthy Foliage",
+    "status": "Healthy",
+    "symptoms": "Glossy green leaves free of chlorosis, necrosis, curling, or fungal powder.",
+    "prevention": "Ensure good soil drainage, timely dormant pruning, and regular canopy inspections."
+  },
+  "cherry (including sour)___powdery mildew": {
+    "crop": "Cherry",
+    "condition": "Powdery Mildew (Podosphaera clandestina)",
+    "status": "Diseased",
+    "symptoms": "White powdery fungal growth patches on young leaves and shoots, accompanied by upward leaf curling.",
+    "prevention": "Prune suckers and interior canopy branches to optimize ventilation, and avoid late-season excessive nitrogen."
+  },
+  "corn (maize)___cercospora leaf spot gray leaf spot": {
+    "crop": "Corn (Maize)",
+    "condition": "Gray Leaf Spot (Cercospora zeae-maydis)",
+    "status": "Diseased",
+    "symptoms": "Rectangular, brown or grayish lesions restricted between parallel leaf veins.",
+    "prevention": "Rotate crops with non-grass crops (e.g. legumes), incorporate residue management, and select resistant corn hybrids."
+  },
+  "corn (maize)___common rust": {
+    "crop": "Corn (Maize)",
+    "condition": "Common Rust (Puccinia sorghi)",
+    "status": "Diseased",
+    "symptoms": "Circular to elongate golden-brown to cinnamon-brown pustules scattered across both leaf surfaces.",
+    "prevention": "Plant resistant hybrids and plant early in the season to evade late-summer spore arrival."
+  },
+  "corn (maize)___healthy": {
+    "crop": "Corn (Maize)",
+    "condition": "Healthy Foliage",
+    "status": "Healthy",
+    "symptoms": "Broad, vibrant dark green leaves without pustules, stripes, or necrotic edges.",
+    "prevention": "Follow soil test-based fertilisation and scout fields during vegetative stages."
+  },
+  "corn (maize)___northern leaf blight": {
+    "crop": "Corn (Maize)",
+    "condition": "Northern Leaf Blight (Exserohilum turcicum)",
+    "status": "Diseased",
+    "symptoms": "Long, elliptical cigar-shaped grayish-green to tan lesions on foliage.",
+    "prevention": "Select resistant hybrids, manage crop residue through conservation tillage, and practice crop rotation."
+  },
+  "grape___black rot": {
+    "crop": "Grape",
+    "condition": "Black Rot (Guignardia bidwellii)",
+    "status": "Diseased",
+    "symptoms": "Reddish-brown circular spots on leaves with tiny black pycnidia (spore bodies) scattered inside.",
+    "prevention": "Prune vines to open the canopy for airflow, remove mummified grape clusters, and avoid overhead sprinkler watering."
+  },
+  "grape___esca (black measles)": {
+    "crop": "Grape",
+    "condition": "Esca / Black Measles (Phaeomoniella chlamydospora complex)",
+    "status": "Diseased",
+    "symptoms": "'Tiger-stripe' chlorotic and necrotic patterns between leaf veins and dark purple speckling on fruit berries.",
+    "prevention": "Protect pruning wounds with wound sealants, avoid pruning during heavy rain periods, and remove severely declining vines."
+  },
+  "grape___healthy": {
+    "crop": "Grape",
+    "condition": "Healthy Canopy",
+    "status": "Healthy",
+    "symptoms": "Uniform lush green palmately lobed leaves free from fungal lesions, insect galls, or marginal necrosis.",
+    "prevention": "Maintain vine trellis architecture, balanced NPK fertigation, and proactive canopy management."
+  },
+  "grape___leaf blight (isariopsis leaf spot)": {
+    "crop": "Grape",
+    "condition": "Leaf Blight / Isariopsis Spot (Pseudocercospora cladosporioides)",
+    "status": "Diseased",
+    "symptoms": "Irregular dark brown or black spots with well-defined margins, often causing early leaf senescence.",
+    "prevention": "Improve airflow through leaf pulling in fruiting zones, remove diseased leaf litter, and ensure balanced nutrition."
+  },
+  "orange___haunglongbing (citrus greening)": {
+    "crop": "Orange (Citrus)",
+    "condition": "Huanglongbing / Citrus Greening (Candidatus Liberibacter asiaticus)",
+    "status": "Diseased",
+    "symptoms": "Asymmetrical blotchy mottle on leaves, yellowing of veins, and stunted, bitter, lopsided fruit.",
+    "prevention": "Control Asian citrus psyllid vector populations, use disease-free nursery stock from screenhouses, and eradicate infected trees."
+  },
+  "peach___bacterial spot": {
+    "crop": "Peach",
+    "condition": "Bacterial Spot (Xanthomonas arboricola pv. pruni)",
+    "status": "Diseased",
+    "symptoms": "Angular, water-soaked purple or dark brown lesions on leaves, often dropping out to leave a 'shot-hole' appearance.",
+    "prevention": "Plant tolerant peach cultivars, avoid overhead sprinkler irrigation, and plant protective windbreaks."
+  },
+  "peach___healthy": {
+    "crop": "Peach",
+    "condition": "Healthy Foliage",
+    "status": "Healthy",
+    "symptoms": "Lanceolate leaves with smooth serrated margins and vibrant green color free of spots or perforations.",
+    "prevention": "Maintain regular orchard pruning, balanced fertilization, and good soil drainage."
+  },
+  "pepper, bell___bacterial spot": {
+    "crop": "Pepper (Bell)",
+    "condition": "Bacterial Spot (Xanthomonas campestris pv. vesicatoria)",
+    "status": "Diseased",
+    "symptoms": "Small, water-soaked, circular to irregular lesions with dark margins on leaves, causing defoliation.",
+    "prevention": "Use certified pathogen-free seeds, avoid working in fields when foliage is wet, and rotate with non-solanaceous crops."
+  },
+  "pepper, bell___healthy": {
+    "crop": "Pepper (Bell)",
+    "condition": "Healthy Foliage",
+    "status": "Healthy",
+    "symptoms": "Glossy, dark green leaves with crisp edges, sturdy stems, and robust flowering.",
+    "prevention": "Employ drip irrigation, mulch beds to prevent soil splashing, and monitor for early pest signs."
+  },
+  "potato___early blight": {
+    "crop": "Potato",
+    "condition": "Early Blight (Alternaria solani)",
+    "status": "Diseased",
+    "symptoms": "Dark brown to black lesions featuring characteristic concentric rings ('target board' pattern) on older leaves.",
+    "prevention": "Ensure adequate nitrogen and potassium fertilization, practice a 3-year crop rotation, and avoid plant stress."
+  },
+  "potato___healthy": {
+    "crop": "Potato",
+    "condition": "Healthy Canopy",
+    "status": "Healthy",
+    "symptoms": "Compound leaves with rich green coloration and vigorous leaf turgor without blighted zones.",
+    "prevention": "Maintain regular hilling, optimal drip irrigation, and good field drainage."
+  },
+  "potato___late blight": {
+    "crop": "Potato",
+    "condition": "Late Blight (Phytophthora infestans)",
+    "status": "Diseased",
+    "symptoms": "Water-soaked, rapidly expanding dark green to purplish-black lesions with pale green borders and white mold underneath.",
+    "prevention": "Destroy cull piles, plant certified disease-free seed tubers, avoid leaf wetness, and harvest in dry weather."
+  },
+  "squash___powdery mildew": {
+    "crop": "Squash",
+    "condition": "Powdery Mildew (Podosphaera xanthii)",
+    "status": "Diseased",
+    "symptoms": "Talcum powder-like white fungal colonies expanding over both upper and lower leaf surfaces, causing premature yellowing.",
+    "prevention": "Plant powdery mildew-resistant squash varieties, provide ample plant spacing, and ensure full sun exposure."
+  },
+  "strawberry___healthy": {
+    "crop": "Strawberry",
+    "condition": "Healthy Foliage",
+    "status": "Healthy",
+    "symptoms": "Trifoliate leaves with vibrant green sheen, intact serrated edges, and sturdy petioles.",
+    "prevention": "Use straw mulch to separate foliage from soil, manage drip lines carefully, and scout regularly."
+  },
+  "strawberry___leaf scorch": {
+    "crop": "Strawberry",
+    "condition": "Leaf Scorch (Diplocarpon earlianum)",
+    "status": "Diseased",
+    "symptoms": "Numerous small, irregular purple or dark reddish spots without distinct white centers, causing leaf margins to curl and scorch.",
+    "prevention": "Plant resistant strawberry varieties, maintain good bed spacing to accelerate leaf drying, and remove dead leaves post-harvest."
+  },
+  "tomato___bacterial spot": {
+    "crop": "Tomato",
+    "condition": "Bacterial Spot (Xanthomonas spp.)",
+    "status": "Diseased",
+    "symptoms": "Small, dark brown, water-soaked circular spots with yellow halos that may merge and cause foliage loss.",
+    "prevention": "Use certified clean seed, avoid handling plants when wet, apply mulch to suppress soil splashing, and rotate crops."
+  },
+  "tomato___early blight": {
+    "crop": "Tomato",
+    "condition": "Early Blight (Alternaria linariae)",
+    "status": "Diseased",
+    "symptoms": "Brown to black lesions with concentric rings (target pattern) beginning on lower mature leaves and progressing upward.",
+    "prevention": "Prune bottom leaves to avoid soil contact, stake plants for vertical growth, and water at the base with drip tape."
+  },
+  "tomato___healthy": {
+    "crop": "Tomato",
+    "condition": "Healthy Foliage",
+    "status": "Healthy",
+    "symptoms": "Deep green, pinnately compound leaves with vigorous upright posture and no chlorotic or necrotic spots.",
+    "prevention": "Ensure balanced nutrition, consistent soil moisture, adequate sunlight, and routine preventative scouting."
+  },
+  "tomato___late blight": {
+    "crop": "Tomato",
+    "condition": "Late Blight (Phytophthora infestans)",
+    "status": "Diseased",
+    "symptoms": "Greasy, dark brown to olive lesions on leaves with white fuzzy sporulation on the underside under cool, humid conditions.",
+    "prevention": "Avoid overhead watering, destroy infected plant residues, select resistant tomato hybrids, and maintain wide spacing."
+  },
+  "tomato___leaf mold": {
+    "crop": "Tomato",
+    "condition": "Leaf Mold (Passalora fulva)",
+    "status": "Diseased",
+    "symptoms": "Pale yellow or greenish chlorotic spots on upper leaf surfaces matching olive-green to brown velvety fungal patches underneath.",
+    "prevention": "Improve greenhouse/field ventilation to keep relative humidity below 85%, and prune dense vegetative foliage."
+  },
+  "tomato___septoria leaf spot": {
+    "crop": "Tomato",
+    "condition": "Septoria Leaf Spot (Septoria lycopersici)",
+    "status": "Diseased",
+    "symptoms": "Small, circular spots with dark brown margins and sunken grayish-white centers dotted with tiny black fruiting structures.",
+    "prevention": "Mulch the soil thoroughly beneath plants, remove lower blighted leaves, and avoid working among damp plants."
+  },
+  "tomato___spider mites two-spotted spider mite": {
+    "crop": "Tomato",
+    "condition": "Two-Spotted Spider Mites (Tetranychus urticae)",
+    "status": "Diseased",
+    "symptoms": "Fine yellow stippling or speckling on leaves, accompanied by delicate silk webbing on leaf undersides in hot, dry weather.",
+    "prevention": "Encourage predatory mites, avoid excessive dust in fields, and wash foliage with water sprays during dry spells."
+  },
+  "tomato___target spot": {
+    "crop": "Tomato",
+    "condition": "Target Spot (Corynespora cassiicola)",
+    "status": "Diseased",
+    "symptoms": "Small brown circular lesions that expand with pinpoint concentric rings and light brown centers, leading to leaf drop.",
+    "prevention": "Maintain proper plant spacing, eliminate solanaceous weeds around fields, and practice regular staking."
+  },
+  "tomato___tomato mosaic virus": {
+    "crop": "Tomato",
+    "condition": "Tomato Mosaic Virus (ToMV)",
+    "status": "Diseased",
+    "symptoms": "Mottled light and dark green mosaic patterns on leaves, leaf distortion, blister-like leaf puckering, and severe stunting.",
+    "prevention": "Disinfect tools with 10% trisodium phosphate or non-fat milk, wash hands thoroughly before handling plants, and plant resistant varieties."
+  },
+  "tomato___tomato yellow leaf curl virus": {
+    "crop": "Tomato",
+    "condition": "Tomato Yellow Leaf Curl Virus (TYLCV)",
+    "status": "Diseased",
+    "symptoms": "Marked upward curling of leaf margins, severe chlorosis/yellowing, reduction in leaf size, and stunted bushy growth.",
+    "prevention": "Manage sweetpotato whitefly (Bemisia tabaci) populations with insect netting and yellow sticky traps, and deploy TYLCV-resistant cultivars."
+  }
+}

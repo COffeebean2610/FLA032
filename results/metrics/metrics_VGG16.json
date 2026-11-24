@@ -1,0 +1,18 @@
+{
+  "model_name": "VGG16",
+  "accuracy": 0.740909090909091,
+  "macro_precision": 0.7938985135746482,
+  "weighted_precision": 0.7938985135746482,
+  "macro_recall": 0.7409090909090907,
+  "weighted_recall": 0.740909090909091,
+  "macro_f1": 0.727999549146811,
+  "weighted_f1": 0.7279995491468109,
+  "inference_latency_ms": 100.05207899492234,
+  "inference_latency_std_ms": 4.774495803024349,
+  "throughput_fps": 9.994794811317716,
+  "model_size_mb": 57.87556743621826,
+  "total_parameters": 14858348,
+  "trainable_parameters": 143148,
+  "training_time_sec": 674.4829134941101,
+  "confusion_matrix_plot": "results/figures/confusion_matrix_VGG16.png"
+}

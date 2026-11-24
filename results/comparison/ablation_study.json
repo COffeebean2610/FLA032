@@ -1,0 +1,20 @@
+[
+  {
+    "Condition": "Experiment A (Without Augmentation)",
+    "Accuracy": 0.7984848484848485,
+    "Macro_F1": 0.7963835589142338,
+    "Weighted_F1": 0.796383558914234,
+    "Final_Train_Loss": 0.55650794506073,
+    "Final_Val_Loss": 0.6444903612136841,
+    "Overfitting_Gap": 0.0879824161529541
+  },
+  {
+    "Condition": "Experiment B (With Augmentation)",
+    "Accuracy": 0.7621212121212121,
+    "Macro_F1": 0.7506889244358238,
+    "Weighted_F1": 0.7506889244358238,
+    "Final_Train_Loss": 0.8081555962562561,
+    "Final_Val_Loss": 0.8412200808525085,
+    "Overfitting_Gap": 0.03306448459625244
+  }
+]

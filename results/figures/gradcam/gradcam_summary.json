@@ -1,0 +1,56 @@
+[
+  {
+    "case_id": 1,
+    "filename": "gradcam_case_1_correct_grape_black rot.png",
+    "filepath": "results/figures/gradcam\\gradcam_case_1_correct_grape_black rot.png",
+    "true_class": "grape___black rot",
+    "pred_class": "grape___black rot",
+    "confidence": 0.7861784100532532,
+    "is_correct": true
+  },
+  {
+    "case_id": 2,
+    "filename": "gradcam_case_2_incorrect_tomato_early blight.png",
+    "filepath": "results/figures/gradcam\\gradcam_case_2_incorrect_tomato_early blight.png",
+    "true_class": "tomato___early blight",
+    "pred_class": "tomato___septoria leaf spot",
+    "confidence": 0.4153842329978943,
+    "is_correct": false
+  },
+  {
+    "case_id": 3,
+    "filename": "gradcam_case_3_correct_Rice_BrownSpot.png",
+    "filepath": "results/figures/gradcam\\gradcam_case_3_correct_Rice_BrownSpot.png",
+    "true_class": "Rice___BrownSpot",
+    "pred_class": "Rice___BrownSpot",
+    "confidence": 0.40395283699035645,
+    "is_correct": true
+  },
+  {
+    "case_id": 4,
+    "filename": "gradcam_case_4_incorrect_potato_late blight.png",
+    "filepath": "results/figures/gradcam\\gradcam_case_4_incorrect_potato_late blight.png",
+    "true_class": "potato___late blight",
+    "pred_class": "potato___healthy",
+    "confidence": 0.3270367980003357,
+    "is_correct": false
+  },
+  {
+    "case_id": 5,
+    "filename": "gradcam_case_5_incorrect_pepper, bell_bacterial spot.png",
+    "filepath": "results/figures/gradcam\\gradcam_case_5_incorrect_pepper, bell_bacterial spot.png",
+    "true_class": "pepper, bell___bacterial spot",
+    "pred_class": "cherry (including sour)___healthy",
+    "confidence": 0.21145474910736084,
+    "is_correct": false
+  },
+  {
+    "case_id": 6,
+    "filename": "gradcam_case_6_correct_apple_apple scab.png",
+    "filepath": "results/figures/gradcam\\gradcam_case_6_correct_apple_apple scab.png",
+    "true_class": "apple___apple scab",
+    "pred_class": "apple___apple scab",
+    "confidence": 0.7700784802436829,
+    "is_correct": true
+  }
+]

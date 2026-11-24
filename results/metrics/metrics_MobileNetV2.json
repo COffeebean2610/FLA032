@@ -1,0 +1,18 @@
+{
+  "model_name": "MobileNetV2",
+  "accuracy": 0.7621212121212121,
+  "macro_precision": 0.7701626516439702,
+  "weighted_precision": 0.7701626516439702,
+  "macro_recall": 0.7621212121212121,
+  "weighted_recall": 0.7621212121212121,
+  "macro_f1": 0.7506889244358238,
+  "weighted_f1": 0.7506889244358238,
+  "inference_latency_ms": 129.08012899337336,
+  "inference_latency_std_ms": 4.389537579788299,
+  "throughput_fps": 7.747125818655925,
+  "model_size_mb": 9.827957153320312,
+  "total_parameters": 2314348,
+  "trainable_parameters": 56364,
+  "training_time_sec": 81.24051547050476,
+  "confusion_matrix_plot": "results/figures/confusion_matrix_MobileNetV2.png"
+}

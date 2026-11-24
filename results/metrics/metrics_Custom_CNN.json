@@ -1,0 +1,18 @@
+{
+  "model_name": "Custom_CNN",
+  "accuracy": 0.022727272727272728,
+  "macro_precision": 0.0005377114998566103,
+  "weighted_precision": 0.0005377114998566102,
+  "macro_recall": 0.022727272727272728,
+  "weighted_recall": 0.022727272727272728,
+  "macro_f1": 0.0010505673063454265,
+  "weighted_f1": 0.0010505673063454265,
+  "inference_latency_ms": 27.768740002065897,
+  "inference_latency_std_ms": 2.000500788237383,
+  "throughput_fps": 36.011716769489844,
+  "model_size_mb": 5.445462226867676,
+  "total_parameters": 468460,
+  "trainable_parameters": 466988,
+  "training_time_sec": 239.8662827014923,
+  "confusion_matrix_plot": "results/figures/confusion_matrix_Custom_CNN.png"
+}

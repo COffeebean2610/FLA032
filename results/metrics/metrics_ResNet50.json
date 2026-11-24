@@ -1,0 +1,18 @@
+{
+  "model_name": "ResNet50",
+  "accuracy": 0.8151515151515152,
+  "macro_precision": 0.8508536330380774,
+  "weighted_precision": 0.8508536330380775,
+  "macro_recall": 0.8151515151515152,
+  "weighted_recall": 0.8151515151515152,
+  "macro_f1": 0.8111235068682188,
+  "weighted_f1": 0.8111235068682189,
+  "inference_latency_ms": 232.57816000375897,
+  "inference_latency_std_ms": 12.054113528120933,
+  "throughput_fps": 4.299629853395683,
+  "model_size_mb": 96.76970481872559,
+  "total_parameters": 24124588,
+  "trainable_parameters": 536364,
+  "training_time_sec": 269.41694140434265,
+  "confusion_matrix_plot": "results/figures/confusion_matrix_ResNet50.png"
+}

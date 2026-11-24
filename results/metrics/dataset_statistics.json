@@ -1,0 +1,276 @@
+{
+  "dataset_name": "Leaf Disease Dataset Combination",
+  "total_classes": 44,
+  "split_counts": {
+    "train": 38104,
+    "validation": 9458,
+    "test": 5741
+  },
+  "total_images": 53303,
+  "classes": {
+    "Cassava___Bacterial Blight (CBB)": {
+      "train": 306,
+      "val": 55,
+      "test": 109,
+      "total": 470
+    },
+    "Cassava___Brown Streak Disease (CBSD)": {
+      "train": 372,
+      "val": 63,
+      "test": 125,
+      "total": 560
+    },
+    "Cassava___Green Mottle (CGM)": {
+      "train": 285,
+      "val": 63,
+      "test": 125,
+      "total": 473
+    },
+    "Cassava___Healthy": {
+      "train": 370,
+      "val": 102,
+      "test": 203,
+      "total": 675
+    },
+    "Cassava___Mosaic Disease (CMD)": {
+      "train": 240,
+      "val": 63,
+      "test": 125,
+      "total": 428
+    },
+    "Rice___BrownSpot": {
+      "train": 377,
+      "val": 94,
+      "test": 52,
+      "total": 523
+    },
+    "Rice___Healthy": {
+      "train": 1072,
+      "val": 268,
+      "test": 148,
+      "total": 1488
+    },
+    "Rice___Hispa": {
+      "train": 408,
+      "val": 101,
+      "test": 56,
+      "total": 565
+    },
+    "Rice___LeafBlast": {
+      "train": 562,
+      "val": 140,
+      "test": 77,
+      "total": 779
+    },
+    "apple___apple scab": {
+      "train": 454,
+      "val": 113,
+      "test": 63,
+      "total": 630
+    },
+    "apple___black rot": {
+      "train": 448,
+      "val": 111,
+      "test": 62,
+      "total": 621
+    },
+    "apple___cedar apple rust": {
+      "train": 199,
+      "val": 49,
+      "test": 27,
+      "total": 275
+    },
+    "apple___healthy": {
+      "train": 1185,
+      "val": 296,
+      "test": 164,
+      "total": 1645
+    },
+    "cherry (including sour)___healthy": {
+      "train": 616,
+      "val": 153,
+      "test": 85,
+      "total": 854
+    },
+    "cherry (including sour)___powdery mildew": {
+      "train": 758,
+      "val": 189,
+      "test": 105,
+      "total": 1052
+    },
+    "corn (maize)___cercospora leaf spot gray leaf spot": {
+      "train": 370,
+      "val": 92,
+      "test": 51,
+      "total": 513
+    },
+    "corn (maize)___common rust": {
+      "train": 859,
+      "val": 214,
+      "test": 119,
+      "total": 1192
+    },
+    "corn (maize)___healthy": {
+      "train": 837,
+      "val": 209,
+      "test": 116,
+      "total": 1162
+    },
+    "corn (maize)___northern leaf blight": {
+      "train": 710,
+      "val": 177,
+      "test": 98,
+      "total": 985
+    },
+    "grape___black rot": {
+      "train": 850,
+      "val": 212,
+      "test": 118,
+      "total": 1180
+    },
+    "grape___esca (black measles)": {
+      "train": 996,
+      "val": 249,
+      "test": 138,
+      "total": 1383
+    },
+    "grape___healthy": {
+      "train": 305,
+      "val": 76,
+      "test": 42,
+      "total": 423
+    },
+    "grape___leaf blight (isariopsis leaf spot)": {
+      "train": 776,
+      "val": 193,
+      "test": 107,
+      "total": 1076
+    },
+    "orange___haunglongbing (citrus greening)": {
+      "train": 3966,
+      "val": 991,
+      "test": 550,
+      "total": 5507
+    },
+    "peach___bacterial spot": {
+      "train": 1655,
+      "val": 413,
+      "test": 229,
+      "total": 2297
+    },
+    "peach___healthy": {
+      "train": 260,
+      "val": 64,
+      "test": 36,
+      "total": 360
+    },
+    "pepper, bell___bacterial spot": {
+      "train": 719,
+      "val": 179,
+      "test": 99,
+      "total": 997
+    },
+    "pepper, bell___healthy": {
+      "train": 1065,
+      "val": 266,
+      "test": 147,
+      "total": 1478
+    },
+    "potato___early blight": {
+      "train": 720,
+      "val": 180,
+      "test": 100,
+      "total": 1000
+    },
+    "potato___healthy": {
+      "train": 110,
+      "val": 27,
+      "test": 15,
+      "total": 152
+    },
+    "potato___late blight": {
+      "train": 720,
+      "val": 180,
+      "test": 100,
+      "total": 1000
+    },
+    "squash___powdery mildew": {
+      "train": 1322,
+      "val": 330,
+      "test": 183,
+      "total": 1835
+    },
+    "strawberry___healthy": {
+      "train": 329,
+      "val": 82,
+      "test": 45,
+      "total": 456
+    },
+    "strawberry___leaf scorch": {
+      "train": 800,
+      "val": 199,
+      "test": 110,
+      "total": 1109
+    },
+    "tomato___bacterial spot": {
+      "train": 1532,
+      "val": 383,
+      "test": 212,
+      "total": 2127
+    },
+    "tomato___early blight": {
+      "train": 720,
+      "val": 180,
+      "test": 100,
+      "total": 1000
+    },
+    "tomato___healthy": {
+      "train": 1146,
+      "val": 286,
+      "test": 159,
+      "total": 1591
+    },
+    "tomato___late blight": {
+      "train": 1376,
+      "val": 343,
+      "test": 190,
+      "total": 1909
+    },
+    "tomato___leaf mold": {
+      "train": 686,
+      "val": 171,
+      "test": 95,
+      "total": 952
+    },
+    "tomato___septoria leaf spot": {
+      "train": 1276,
+      "val": 318,
+      "test": 177,
+      "total": 1771
+    },
+    "tomato___spider mites two-spotted spider mite": {
+      "train": 1208,
+      "val": 301,
+      "test": 167,
+      "total": 1676
+    },
+    "tomato___target spot": {
+      "train": 1012,
+      "val": 252,
+      "test": 140,
+      "total": 1404
+    },
+    "tomato___tomato mosaic virus": {
+      "train": 269,
+      "val": 67,
+      "test": 37,
+      "total": 373
+    },
+    "tomato___tomato yellow leaf curl virus": {
+      "train": 3858,
+      "val": 964,
+      "test": 535,
+      "total": 5357
+    }
+  }
+}

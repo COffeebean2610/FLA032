@@ -1,0 +1,34 @@
+[
+  {
+    "Model Format": "Keras FP32 Baseline",
+    "Model Size (MB)": 9.827957153320312,
+    "Compression": "1.00x",
+    "Mean Latency (ms)": 137.80956983566284,
+    "Throughput (FPS)": 7.256390112765714,
+    "Accuracy": 0.8833333333333333
+  },
+  {
+    "Model Format": "TFLite Float32",
+    "Model Size (MB)": 8.693603515625,
+    "Compression": "1.13x",
+    "Mean Latency (ms)": 7.9105559980962425,
+    "Throughput (FPS)": 126.41336465359204,
+    "Accuracy": 0.8833333333333333
+  },
+  {
+    "Model Format": "TFLite Float16",
+    "Model Size (MB)": 4.4110870361328125,
+    "Compression": "2.23x",
+    "Mean Latency (ms)": 7.909196994733065,
+    "Throughput (FPS)": 126.435085719312,
+    "Accuracy": 0.8916666666666667
+  },
+  {
+    "Model Format": "TFLite INT8",
+    "Model Size (MB)": 2.6638565063476562,
+    "Compression": "3.69x",
+    "Mean Latency (ms)": 5.418288998771459,
+    "Throughput (FPS)": 184.56010748535925,
+    "Accuracy": 0.8666666666666667
+  }
+]
